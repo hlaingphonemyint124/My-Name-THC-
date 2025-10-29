@@ -120,7 +120,7 @@ const Auth = () => {
               <Leaf className="h-8 w-8 text-accent-foreground" />
             </div>
           </div>
-          <CardTitle className="text-2xl">Welcome to Premium Cannabis</CardTitle>
+          <CardTitle className="text-2xl">Welcome to My Name THC มายเนมทีเอชซี</CardTitle>
           <CardDescription>Sign in or create an account to continue</CardDescription>
         </CardHeader>
         <CardContent>
